@@ -1,1 +1,5 @@
 O comando git push é mais usado para publicar modificações locais a um repositório central. Após um repositório local ter sido modificado, um comando push é executado para compartilhar as modificações com membros da equipe remota.
+Ambos os participantes devem selecionar o mesmo arquivo e fazer
+modificações em seus respectivos computadores. Sugerimos escrever
+algumas linhas de texto que façam sentido porque facilitarão a próxima
+etapa.
